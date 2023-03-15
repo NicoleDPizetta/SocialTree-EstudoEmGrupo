@@ -30,11 +30,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 #### Desktop
 
-![](./assets/screenshots/desktop.png)
+![](./assets/screenshot/desktop.png)
 
 #### Mobile
 
-![](./assets/screenshots/mobile.png)
+![](./assets/screenshot/mobile.png)
 
 ## 🚀 Recursos úteis
 
