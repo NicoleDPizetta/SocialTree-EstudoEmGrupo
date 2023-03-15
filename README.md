@@ -2,7 +2,7 @@
 
 <p align="center">
 Desafio da Rocketseat de criação de uma página de links sociais. <br/>
-
+Fizemos esse projeto em um grupo de estudos.
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Preview site
 
-- [Clique aqui](https://nicoledpizetta.github.io/EndlessNightmareGame/)
+- [Clique aqui](https://nicoledpizetta.github.io/SocialTree-EstudoEmGrupo/)
 
 ## 🚀 Screenshots
 
@@ -50,7 +50,17 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-<p align="center"> Feito com ♥ por <a href="https://github.com/NicoleDPizetta">Nicole Dalzotto Pizetta</a> e <a href="https://www.rocketseat.com.br/">Rocketseat</a> 
-<br>:wave: <a href="https://discord.gg/rocketseat">Participe da comunidade Rocketseat!</a> </p>
+### Feito com ♥ por:
+
+- [@NicoleDPizetta](https://github.com/NicoleDPizetta)
+- [@FlightofIcarus](https://github.com/FlightofIcarus)
+- [@VictorPz](https://github.com/VictorPz)
+- [@matheusntv](https://github.com/matheusntv)
+- [@MarviLouz](https://github.com/MarviLouz)
+- [@SamuelMagalhaes](https://github.com/SamuelMagalhaes)
+- [@hiagxrosa](https://github.com/hiagxrosa)
+- [@gustavoiktn](https://github.com/gustavoiktn)
+
+<br>:wave: <a align="center" href="https://discord.gg/rocketseat">Participe da comunidade Rocketseat!</a>
 
 ---
