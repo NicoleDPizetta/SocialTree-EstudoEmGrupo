@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 #### Desktop
 
-![](./assets/screenshot/desktop.png)
+![](https://github.com/NicoleDPizetta/SocialTree-EstudoEmGrupo/blob/main/assets/screenshot/Desktop.png)
 
 #### Mobile
 
